@@ -1,0 +1,23 @@
+{
+  "name": "react-native-react-native-reparentable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "react": "^16.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.14",
+    "@types/react-native": "^0.56.18"
+  }
+}
