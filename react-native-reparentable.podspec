@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.version      = package['version']
   s.summary      = package['description']
   s.description  = package['description']
-  s.homepage     = ""
+  s.homepage     = "https://github.com/Mandaris-LLC/react-native-reparentable"
   s.license      = "MIT"
   s.author       = package['author']
   s.platform     = :ios, "7.0"
